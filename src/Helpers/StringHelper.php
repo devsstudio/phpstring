@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace Pe\Devs\PhpString;
+namespace DevsStudio\Phpstring\Helpers;
 
 /**
  * Description of USString
