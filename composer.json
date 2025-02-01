@@ -1,0 +1,19 @@
+{
+    "name": "devs-studio/phpstring",
+    "description": "PHP classes for string handling",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DevsStudio\\Phpstring\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jean Paul Perea",
+            "email": "jeanpaper@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
